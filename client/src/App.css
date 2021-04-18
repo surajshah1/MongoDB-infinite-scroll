@@ -1,0 +1,28 @@
+.app {
+  padding: 70px;
+}
+
+.order__display {
+  background-color: #f5f6fa;
+  border: 5px solid #30C3FE;
+  margin: 5px 0px;
+  border-radius: 4px;
+  padding: 10px;
+  line-height: .2;
+}
+
+.title {
+  font-size: 4rem;
+  text-align: center;
+  color: #F8505C;
+}
+
+.tagged {
+  color : #38B433;
+  text-align: right;
+  font-weight: 600;
+}
+
+.ItemName {
+  color: #B87FF7
+}
